@@ -1,6 +1,10 @@
 # sources
 einops/
 mlab/
+ML4G/
+
+#data
+days/w1d2/resnet/data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
